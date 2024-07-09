@@ -1,5 +1,5 @@
 # Gabriel Sanguinette
-Me chamo Gabriel. Sou Técnico de Redes de computadores e atualmente estou cursando *Analise e Desenvolvimento de Sistemas* e estou me dedicando a aprender as linguagens Java, Python e C++ com foco no Back-end e conseguir dar meu primeiro passo no mercado de trabalho como desenvolvedor.
+Me chamo Gabriel. Sou Técnico de Redes de computadores e atualmente estou cursando *Analise e Desenvolvimento de Sistemas* e me dedicando a aprender as linguagens Java, Python e C++ com foco no Back-end e conseguir dar meu primeiro passo no mercado de trabalho como desenvolvedor.
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-sanguinette-7306ba18b/)
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gabriel.sanguinette/)
